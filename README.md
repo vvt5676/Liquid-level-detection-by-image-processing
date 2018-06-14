@@ -1,0 +1,2 @@
+# Liquid-level-detection-by-image-processing
+We are required to find out the how much bottle filled with liquid. This is industrial problem statement under controlled environment. Here we see appoach where the color of sample liquid is taken and we are checking the same sample color for the given bottle. The hieght of liquid will be first 10 pixels belonging to the same color space, when we are scanning the image from the top.
